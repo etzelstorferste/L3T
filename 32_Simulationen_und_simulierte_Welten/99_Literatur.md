@@ -31,7 +31,9 @@
 
 - Kato, P. M.; Cole, S. W.; Bradlin, A. S. & Pollock, B. (2008). A video games improve behavioral outcomes in adolescents and young adults with cancer: A randomized trial. In: Pediatrics, 122(2), e305-e317. URL: [http://pamkato.com/recent-publications/](http://pamkato.com/recent-publications/) (2013-08-21)
 
-- KZero (2011). Virtual Worlds: Industry & User Data. Universe Chart for Q2 2011. URL: [http://www.slideshare.net/fullscreen/nicmitham/kzero-universe-q2-2011/20](http://www.slideshare.net/fullscreen/nicmitham/kzero-universe-q2-2011/20) \[2013-07-01].
+- Kaufmann, H. (2003). Collaborative Augmented Reality in Education. reposiTUm. URL: [https://repositum.tuwien.at/handle/20.500.12708/176131](https://repositum.tuwien.at/handle/20.500.12708/176131) \[2025-04-05].
+
+- KZero (2024). Metaverse monthly active user forecast. SlideShare. URL: [https://de.slideshare.net/slideshow/kzero-metaverse-monthly-active-user-forecast/273072267](https://de.slideshare.net/slideshow/kzero-metaverse-monthly-active-user-forecast/273072267) \[2025-04-03].
 
 - Mandl, H.; Gruber, H. & Renkl, M. (2002). Situiertes Lernen in multimedialen Lernumgebungen, In: P. Klimsa (Hrsg.), Information und Lernen mit Multimedia und Internet: Lehrbuch für Studium und Praxis, 3. Aufl., Weinheim: Beltz, 139-148.
 
