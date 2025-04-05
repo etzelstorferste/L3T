@@ -13,7 +13,7 @@
 
 - Burdea, G. C. & Coiffet, P. (2003). Virtual Reality Technology. Hoboken (NJ): Wiley.
 
-- Chandrasekera, T.; Yoon, S. (2018). Augmented Reality, Virtual Reality and their effect on learning style in the creative design process. ERIC. URL: [https://eric.ed.gov/?id=EJ1171588](https://eric.ed.gov/?id=EJ1171588) \[2025-04-05].
+- Chandrasekera, T.; Yoon, S. (2018). Augmented Reality, Virtual Reality and their effect on learning style in the creative design process. ERIC. URL: [https://eric.ed.gov/?id=EJ1171588](https://eric.ed.gov/?id=EJ1171588) \[2025-04-05]
 
 - Csikszentmihalyi, M. (2010). Das Flow-Erlebnis. Stuttgart: Klett-Cotta.
 
