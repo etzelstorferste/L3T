@@ -13,6 +13,8 @@
 
 - Burdea, G. C. & Coiffet, P. (2003). Virtual Reality Technology. Hoboken (NJ): Wiley.
 
+- Chandrasekera, T.; Yoon, S. (2018). Augmented Reality, Virtual Reality and their effect on learning style in the creative design process. ERIC. URL: [https://eric.ed.gov/?id=EJ1171588](https://eric.ed.gov/?id=EJ1171588) \[2025-04-05].
+
 - Csikszentmihalyi, M. (2010). Das Flow-Erlebnis. Stuttgart: Klett-Cotta.
 
 - Davis, A.; Murphy, J.; Dawn, O.; Deepak, K. & Zigurs, I. (2009). Avatars, People, and Virtual Worlds: Foundations for Research in Metaverses. In: Journal of the Association for Information Systems, 10 (2), Artikel 2, 90-119; URL: [http://aisel.aisnet.org/jais/vol10/iss2/1](http://aisel.aisnet.org/jais/vol10/iss2/1) \[2013-06-23]
@@ -31,9 +33,7 @@
 
 - Kato, P. M.; Cole, S. W.; Bradlin, A. S. & Pollock, B. (2008). A video games improve behavioral outcomes in adolescents and young adults with cancer: A randomized trial. In: Pediatrics, 122(2), e305-e317. URL: [http://pamkato.com/recent-publications/](http://pamkato.com/recent-publications/) (2013-08-21)
 
-- Kaufmann, H. (2003). Collaborative Augmented Reality in Education. reposiTUm. URL: [https://repositum.tuwien.at/handle/20.500.12708/176131](https://repositum.tuwien.at/handle/20.500.12708/176131) \[2025-04-05].
-
-- KZero (2024). Metaverse monthly active user forecast. SlideShare. URL: [https://de.slideshare.net/slideshow/kzero-metaverse-monthly-active-user-forecast/273072267](https://de.slideshare.net/slideshow/kzero-metaverse-monthly-active-user-forecast/273072267) \[2025-04-03].
+- KZero (2024). Metaverse monthly active user forecast. SlideShare. URL: [https://de.slideshare.net/slideshow/kzero-metaverse-monthly-active-user-forecast/273072267](https://de.slideshare.net/slideshow/kzero-metaverse-monthly-active-user-forecast/273072267) \[2025-04-03]
 
 - Mandl, H.; Gruber, H. & Renkl, M. (2002). Situiertes Lernen in multimedialen Lernumgebungen, In: P. Klimsa (Hrsg.), Information und Lernen mit Multimedia und Internet: Lehrbuch für Studium und Praxis, 3. Aufl., Weinheim: Beltz, 139-148.
 
