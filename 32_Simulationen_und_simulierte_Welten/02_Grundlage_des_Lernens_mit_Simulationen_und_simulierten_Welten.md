@@ -33,9 +33,26 @@ Laut Chandrasekera und Yoon (2018) kann ,Virtual Reality‘ (VR) als eine immers
 
 ,Augmented Reality‘ (AR) ist nach Chandrasekera und Yoon (2018) eine Erweiterung der physischen Umgebung durch digitale, computergenerierte Inhalte. Im Unterschied zur Virtual Reality, die Nutzer/innen vollständig in eine virtuelle Welt eintauchen lässt, wird bei AR die reale Welt mit virtuellen Informationen überlagert – etwa in Form von Texten, Bildern, 3D-Objekten oder Audio. Diese virtuellen Elemente erscheinen in Echtzeit und ergänzen nahtlos die physische Realität.
 
-Konzepte für immersive Lernumgebungen und Lernen in 3D (,drei Dimensionen‘) werden seit Ende der 1990er Jahre experimentell erprobt. Die Anwendung virtueller Welten in sozialen Interaktionsprozessen wurde zunächst in ,ActiveWorlds‘ beziehungsweise ,Edu-Worlds‘ und ab circa 2005 in ,Second Life‘ erforscht. Im Bereich der Forschung zur Effektivität von Serious Games war die Studie zum Einsatz des Spiels ,Re-Mission‘ von Kato et al. (2008) beeindruckend. Hier wurde unter anderem ein Nachweis für die Wirksamkeit bei Heilungsprozessen von krebskranken Nutzerinnen und Nutzern beim Spielen gefunden.
+Ein besonderer Vorteil von VR- und AR-Technologien im Bildungswesen liegt in ihrer Fähigkeit, abstrakte oder komplexe Inhalte auf anschauliche Weise zu vermitteln - in dieser Hinsicht sind sie klassischen Lernmethoden überlegen. Dies wird auch durch empirische Forschung gestützt: Eine Metaanalyse von Zhao et al. (2021) untersuchte den Einsatz von Virtual Reality in der medizinischen Ausbildung und verglich die Wirksamkeit von VR-basiertem Lernen mit traditionellen Lehrmethoden. Die Analyse umfasste sechs Studien mit insgesamt 633 Teilnehmenden aus verschiedenen Bereichen der Gesundheitsberufe – darunter Medizinstudierende, Assistenzärzte/Assistenzärztinnen und Angehörige anderer medizinischer Fachrichtungen. Die Ergebnisse zeigten, dass Teilnehmende in der VR-Gruppe eine deutlich höhere Chance hatten, die Prüfung zu bestehen als jene, die mit traditionellen Lehrmethoden unterrichtet wurden – mit einer berechneten Odds Ratio von 1,85 (95 %-Konfidenzintervall: 1,32–2,58).
 
-Eine These bei der Verwendung dreidimensionaler virtueller Welten ist die mögliche unterstützende Wirkung der Immersion auf Lernprozesse. Immersionseffekte hängen mit Flow (Csikszentmihalyi, 2010) und Präsenz-Erleben (Pietschmann,2009) zusammen, werden aber auch im Zusammenhang mit Computerspielsucht genannt (Grunewald, 2009).
+Auch für AR lassen sich vergleichbare positive Effekte nachweisen: Eine umfassende systematische Übersichtsarbeit mit integrierter Metaanalyse von Zhang et al. (2022) untersuchte 129 empirische Studien zum Einsatz von Augmented Reality im schulischen Kontext (K–12; primärer und sekundärer Bildungsbereich), die im Zeitraum von 2000 bis 2020 veröffentlicht wurden. Die Ergebnisse der Metaanalyse zeigen eine deutlich positive Wirkung von AR auf das Lernen, mit einer hohen Gesamteffektstärke (g = 0,919) zugunsten von AR-basierten Lernsettings. Durch diese Studie konnten zusätzlich zentrale Trends identifiziert werden:
+- Am häufigsten kommt AR in den Naturwissenschaften (Physik, Geologie, Biologie) sowie in den Gesellschaftswissenschaften (Geschichte, Kultur) zum Einsatz, gefolgt vom Sprachunterricht.
+- Mobile Geräte – insbesondere Tablets – haben sich als bevorzugte Plattform für AR-Anwendungen etabliert.
+- Die meisten AR-Anwendungen dienen der Vermittlung von Fakten- und Konzeptwissen.
+- Anwendungen mit Übungsanteilen erwiesen sich als besonders wirksam und führten zu den besten Lerneffekten, obwohl sie in den analysierten Studien vergleichsweise selten eingesetzt wurden.
+
+<blockquote style="background: #FFEBEE; border-left: 10px solid #F44336">
+
+### ?
+
+- Was unterscheidet Augmented Reality grundsätzlich von Virtual Reality?
+- Welche Sinneskanäle werden in VR-Anwendungen typischerweise angesprochen?
+- Welche Formen digitaler Inhalte können in AR eingeblendet werden?
+
+
+</blockquote>
+
+Eine These bei der Verwendung dreidimensionaler virtueller Welten - und damit auch von VR und AR - ist die mögliche unterstützende Wirkung der Immersion auf Lernprozesse. Immersionseffekte hängen mit Flow (Csikszentmihalyi, 2010) und Präsenz-Erleben (Pietschmann,2009) zusammen, werden aber auch im Zusammenhang mit Computerspielsucht genannt (Grunewald, 2009).
 
 Immersion bezeichnet den Grad, in dem Individuen wahrnehmen, dass sie mehr mit ihrer virtuellen als mit ihrer realen Umgebung interagieren (Guadagno et al., 2007, 3) und beschreibt somit das individuelle Gefühl des „Sense-of-being-there“. Bezüglich einer virtuellen Realität scheint Immersion durch den Grad der Repräsentation der Lernenden und ihrer Präsenz (Presence) bestimmt zu sein (Davis et al., 2009; Bredl & Herz, 2010; Bredl & Groß, 2012, 2). Ihre Repräsentation ist dabei geprägt von den Zuständen und dem Erscheinungsbild ihrer virtuellen Repräsentantinnen und Repräsentanten sowie ihrer Interaktionsmöglichkeiten (Bouras et al., 2001).
 

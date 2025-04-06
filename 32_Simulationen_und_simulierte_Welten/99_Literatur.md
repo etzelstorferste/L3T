@@ -40,3 +40,7 @@
 - Ritterfeld, U.; Cody, M. & Vorderer, P. (2009). Serious Games: Explication of an Oxymoron. Introduction. In: U. Ritterfeld; M. Cody & P. Vorderer (Hrsg.), Serious Games. Mechanism and Effects, New York: Routledge, Taylor and Francis, 3-10.
 
 - Sommer, S. (2012). Spielen für die Karriere. In: Manager-Magazin Online. URL: [http://www.manager-magazin.de/unternehmen/karriere/0,2828,844534,00.html](http://www.manager-magazin.de/unternehmen/karriere/0,2828,844534,00.html) \[2013-07-01]
+
+- Zhang, J.; Li, G.; Huang, Q.; Feng, Q. & Luo, H. (2022). Augmented Reality in K–12 Education: A Systematic Review and Meta-Analysis of the Literature from 2000 to 2020. MDPI. URL: [https://doi.org/10.3390/su14159725](https://doi.org/10.3390/su14159725) \[2025-04-05]
+
+- Zhao, G.; Fan, M.; Yuan, Y.; Zhao, F. & Huang H. (2021). The comparison of teaching efficiency between virtual reality and traditional education in medical education: a systematic review and meta-analysis. PubMed Central. URL: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7940910/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7940910/) \[2025-04-05]
