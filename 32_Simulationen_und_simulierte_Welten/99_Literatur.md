@@ -3,6 +3,8 @@
 
 - Ambient Insight (2012). The 2011-2016 Worldwide Game-Based Learning Market: All Roads Lead to Mobile. Key Findings from Recent Ambient Insight Research. 2012. URL: [http://www.ambientinsight.com/Resources/Documents/AmbientInsight-Worldwide-GameBased-Learning-Market.pdf](http://www.ambientinsight.com/Resources/Documents/AmbientInsight-Worldwide-GameBased-Learning-Market.pdf) \[2013-07-01]
 
+- Bailenson, J. N.; Beams, B.; Brown, J.; DeVeaux, C.; Han, E.; Queiroz, A. C. M.; Ratan, R.; Santoso, M.; Srirangarajan, T.; Tao, Y. & Wang, P. (2024). Seeing the World Through Digital Prisms: Psychological Implications of Passthrough Video Usage in Mixed Reality. Technology, Mind, and Behavior. URL: [https://doi.org/10.1037/tmb0000129](https://doi.org/10.1037/tmb0000129) \[2025-04-06]
+
 - Bouras, C.; Triantafillou, V. & Tsiatsos, T. (2001). Aspects of a collaborative learning environment using distributed virtual environments. Paper presented at ED-MEDIA 2001 Conference, Tampere, Finnland. URL: [http://ru6.cti.gr/ru6/publications/2021615.pdf](http://ru6.cti.gr/ru6/publications/2021615.pdf) \[2013-06-23]
 
 - Bredl, K. & Groß, A. (2012). Gestaltung und Bewertung von Lernszenarien in immersiven virtuellen Welten. Zeitschrift für E-Learning, vol. 7, issue 1/2012, Innsbruck: Studienverlag, 36-46.
@@ -31,11 +33,15 @@
 
 - Hofmann, J. (2002). Raumwahrnehmung in virtuellen Umgebungen: Der Einfluss des Präsenzempfindens in Virtual Reality-Anwendungen für den industriellen Einsatz. Wiesbaden: Deutscher Universitäts-Verlag.
 
+- Kariuki D. (2021). Educator compares virtual worlds for education, prefers OpenSim. Hypergrid Business. URL: [https://www.hypergridbusiness.com/2021/11/educator-compares-virtual-worlds-for-education-prefers-opensim/](https://www.hypergridbusiness.com/2021/11/educator-compares-virtual-worlds-for-education-prefers-opensim/) \[2025-04-06]
+
 - Kato, P. M.; Cole, S. W.; Bradlin, A. S. & Pollock, B. (2008). A video games improve behavioral outcomes in adolescents and young adults with cancer: A randomized trial. In: Pediatrics, 122(2), e305-e317. URL: [http://pamkato.com/recent-publications/](http://pamkato.com/recent-publications/) (2013-08-21)
 
 - KZero (2024). Metaverse monthly active user forecast. SlideShare. URL: [https://de.slideshare.net/slideshow/kzero-metaverse-monthly-active-user-forecast/273072267](https://de.slideshare.net/slideshow/kzero-metaverse-monthly-active-user-forecast/273072267) \[2025-04-03]
 
 - Mandl, H.; Gruber, H. & Renkl, M. (2002). Situiertes Lernen in multimedialen Lernumgebungen, In: P. Klimsa (Hrsg.), Information und Lernen mit Multimedia und Internet: Lehrbuch für Studium und Praxis, 3. Aufl., Weinheim: Beltz, 139-148.
+
+- Rakkolainen, I.; Farooq, A.; Kangas, J.; Hakulinen, J.; Rantala, J.; Turunen, M. & Raisamo, R. (2021). Technologies for Multimodal Interaction in Extended Reality—A Scoping Review. Multimodal Technologies and Interaction. URL: [https://doi.org/10.3390/mti5120081](https://doi.org/10.3390/mti5120081) \[2025-04-06]
 
 - Ritterfeld, U.; Cody, M. & Vorderer, P. (2009). Serious Games: Explication of an Oxymoron. Introduction. In: U. Ritterfeld; M. Cody & P. Vorderer (Hrsg.), Serious Games. Mechanism and Effects, New York: Routledge, Taylor and Francis, 3-10.
 
