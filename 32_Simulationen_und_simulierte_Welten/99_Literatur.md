@@ -1,11 +1,9 @@
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 
-- Ambient Insight (2012). The 2011-2016 Worldwide Game-Based Learning Market: All Roads Lead to Mobile. Key Findings from Recent Ambient Insight Research. 2012. URL: [http://www.ambientinsight.com/Resources/Documents/AmbientInsight-Worldwide-GameBased-Learning-Market.pdf](http://www.ambientinsight.com/Resources/Documents/AmbientInsight-Worldwide-GameBased-Learning-Market.pdf) \[2013-07-01]
-
 - Bailenson, J. N.; Beams, B.; Brown, J.; DeVeaux, C.; Han, E.; Queiroz, A. C. M.; Ratan, R.; Santoso, M.; Srirangarajan, T.; Tao, Y. & Wang, P. (2024). Seeing the World Through Digital Prisms: Psychological Implications of Passthrough Video Usage in Mixed Reality. Technology, Mind, and Behavior. URL: [https://doi.org/10.1037/tmb0000129](https://doi.org/10.1037/tmb0000129) \[2025-04-06]
 
-- Bouras, C.; Triantafillou, V. & Tsiatsos, T. (2001). Aspects of a collaborative learning environment using distributed virtual environments. Paper presented at ED-MEDIA 2001 Conference, Tampere, Finnland. URL: [http://ru6.cti.gr/ru6/publications/2021615.pdf](http://ru6.cti.gr/ru6/publications/2021615.pdf) \[2013-06-23]
+- Bouras, C.; Triantafillou, V. & Tsiatsos, T. (2001). Aspects of a collaborative learning environment using distributed virtual environments. Paper presented at ED-MEDIA 2001 Conference, Tampere, Finnland. URL: [https://www.learntechlib.org/primary/p/8362/](https://www.learntechlib.org/primary/p/8362/) \[2025-04-06]
 
 - Bredl, K. & Groß, A. (2012). Gestaltung und Bewertung von Lernszenarien in immersiven virtuellen Welten. Zeitschrift für E-Learning, vol. 7, issue 1/2012, Innsbruck: Studienverlag, 36-46.
 
